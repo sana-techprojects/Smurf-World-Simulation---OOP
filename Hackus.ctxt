@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hackus
+comment0.text=\r\n\ The\ Hackus\ class,\ a\ subclass\ of\ Vehicle.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ method\ is\ called\ on\ each\ game\ update\ frame.\r\n
+comment2.params=origin
+comment2.target=Hackus(VehicleSpawner)
+comment2.text=\r\n\ Constructor\ for\ the\ Hackus\ class.\r\n\ @param\ origin\ The\ VehicleSpawner\ that\ created\ this\ Hackus\ instance.\r\n
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment3.text=\r\n\ Check\ if\ Hackus\ has\ hit\ a\ PapaSmurf\ or\ Smurfette\ and\ knock\ them\ down.\r\n\ @return\ true\ if\ a\ hit\ occurred,\ false\ otherwise.\r\n
+numComments=4

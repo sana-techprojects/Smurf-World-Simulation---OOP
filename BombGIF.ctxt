@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BombGIF
+comment0.text=\r\n\ The\ BombGIF\ class\ represents\ an\ actor\ that\ displays\ an\ animated\ bomb\ explosion.\r\n\ It\ extends\ the\ Actor\ class.\r\n\ \r\n\ The\ BombGIF\ actor\ uses\ a\ GifImage\ to\ handle\ the\ animation\ frames\ of\ the\ explosion.\r\n\ It\ contains\ an\ ArrayList\ of\ GreenfootImages\ for\ the\ animation\ frames.\r\n\ The\ animationDelayTotal\ determines\ the\ delay\ between\ animation\ frames.\r\n\ The\ animationDelayLeft\ keeps\ track\ of\ the\ remaining\ delay\ for\ the\ current\ frame.\r\n\ The\ animationIndex\ indicates\ the\ current\ frame\ being\ displayed.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BombGIF()
+comment1.text=\r\n\ Constructor\ for\ the\ BombGIF\ class.\r\n\ Initializes\ the\ animation\ frames,\ animation\ delay,\ and\ sets\ the\ initial\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ It\ handles\ the\ animation\ frames\ and\ removal\ of\ the\ actor\ when\ the\ animation\ ends.\r\n
+comment3.params=image
+comment3.target=void\ setImage(greenfoot.GreenfootImage)
+comment3.text=\r\n\ Overrides\ the\ setImage()\ method\ of\ the\ Actor\ class.\r\n\ Scales\ the\ image\ to\ a\ desired\ width\ and\ height.\r\n\ \r\n\ @param\ image\ The\ image\ to\ set\ for\ the\ actor.\r\n
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BlueFlashing
+comment0.text=\r\n\ Explosion\ graphic\ -\ An\ Actor\ that\ consists\ of\ a\ circle\ that\ expands\r\n\ to\ a\ set\ size,\ then\ removes\ itself\ from\ the\ world,\ create\ the\ \r\n\ appearance\ of\ an\ explosion\r\n\ \r\n\ Note\ -\ to\ use\ this,\ your\ WORLD\ CONSTRUCTOR\ MUST\ CALL\:\ \r\n\ \r\n\ Explosion.init();\ \r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ November\ 2015\r\n
+comment1.params=maxSize\ additionalExplosions
+comment1.target=BlueFlashing(int,\ int)
+comment2.params=maxSize
+comment2.target=BlueFlashing(int)
+comment2.text=\r\n\ Constructor\ to\ create\ an\ Explosion\r\n\ \r\n\ @param\ \ \ maxSize\ \ \ \ \ The\ size\ at\ which\ the\ explosion\ will\ stop\ growing\ and\ remove\ itself\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\ gets\ called\ by\ Greenfoot\ every\ frame.\ In\ this\ class,\ this\ method\r\n\ will\ serve\ to\ increase\ the\ size\ each\ act\ until\ maxSize\ is\ reached,\ at\ which\r\n\ point\ the\ object\ will\ remove\ itself\ from\ existence.\r\n
+comment4.params=
+comment4.target=void\ redraw()
+comment4.text=\r\n\ redraw()\ method\ is\ a\ private\ method\ called\ by\ this\ object\ each\ act\r\n\ in\ order\ to\ redraw\ the\ graphic\r\n
+numComments=5

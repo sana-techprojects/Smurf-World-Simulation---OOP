@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Gargamel
+comment0.text=\r\n\ The\ Gargamel\ class,\ a\ subclass\ of\ Vehicle.\r\n
+comment1.params=origin
+comment1.target=Gargamel(VehicleSpawner)
+comment1.text=\r\n\ Constructor\ for\ the\ Gargamel\ class.\r\n\ @param\ origin\ The\ VehicleSpawner\ that\ created\ this\ Gargamel\ instance.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ is\ called\ on\ each\ game\ update\ frame.\r\n
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment3.text=\r\n\ Check\ if\ Gargamel\ has\ hit\ a\ PapaSmurf\ or\ Smurfette\ and\ take\ appropriate\ actions.\r\n\ @return\ true\ if\ a\ hit\ occurred,\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=int\ getGargamelLaneNumber()
+comment4.text=\r\n\ Get\ the\ lane\ number\ of\ Gargamel.\r\n\ @return\ The\ lane\ number\ of\ Gargamel.\r\n
+comment5.params=hasExplosion
+comment5.target=void\ setExplosion(boolean)
+comment5.text=\r\n\ Set\ whether\ Gargamel\ has\ an\ explosion.\r\n\ @param\ hasExplosion\ A\ boolean\ value\ indicating\ if\ Gargamel\ has\ an\ explosion.\r\n
+comment6.params=
+comment6.target=boolean\ hasExplosion()
+comment6.text=\r\n\ Check\ if\ Gargamel\ has\ an\ explosion.\r\n\ @return\ true\ if\ Gargamel\ has\ an\ explosion,\ false\ otherwise.\r\n
+numComments=7
